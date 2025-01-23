@@ -1,1 +1,1 @@
-# Banking.PRJ
+# Banking Project
